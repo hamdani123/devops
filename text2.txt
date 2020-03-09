@@ -1,1 +1,1 @@
-baris pertama file text2
+add line from beta
